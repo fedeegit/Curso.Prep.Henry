@@ -1,0 +1,28 @@
+- Variables: es una caja donde se guardan cosas. 
+	Por ejemplo juguetes: vos sabes que en esa caja marron esta el auto, 
+		      	en la caja azul está el peluche.
+- Strings: los strings siempre van entre comillas, y nos indican que son como
+	   etiquetas que le pones a las cosas y se le da un nombre usando
+	   cualquier letra o simbolos
+- Funciones: una funcion guarda información para hacer algo, son un objeto que
+	     guardan cosas para hacer, por ejemplo las
+	     aplicaciones del telefono, tocas en alguna y hace algo, el control
+	     remoto tambien, tocas un boton y hace algo específico.
+	Argumento: los argumentos son variables que se le asignan a la funcion,
+		   por ej, cambiarle la función a los botones del control, que
+		   el boton de volumen cambie de canales y el de canales que
+		   cambie el volumen
+	Return: el retorno te deja ver el resultado de la función y te lo puede
+		limitar tambien, si le agregamos un return al control del 
+		volumen, veremos que en el tv se ve que se sube el volumen, 
+		pero luego no te va a dejar subir mas porque no puede acceder
+		nuevamente a la función.
+- Declaración if: las declaraciones sirven para controlar el flujo de informa_
+		  ción, para acceder a ciertos programas de la tv, tenés que 
+		  colocar tu edad primero, si cumplis con esa condicion te deja
+		  mirar, si no cumplis no te va a dejar.
+	Valores booleanos: True y False, son los únicos valores posibles para
+			   este tipo de operaciones, es un si o un no, cuando
+			   le pedis mirar la tv a papá o mamá, ellos se compor_
+			   tan como booleanos, te dicen que si o que no y ahí 
+			   se terminó la charla.
